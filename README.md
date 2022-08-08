@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mivasdotcom
-- 👀 I’m interested in Software developing.   
+- 👀 I’m interested in Software development. 
 - 🌱 I’m currently experimenting on small projects found in the iternet.
 - 📫 How to reach me giorgosmiv@gmail.com .
 
